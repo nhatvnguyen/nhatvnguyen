@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @nhatvnguyen, MS ECE at UCLA.
-- 👀 I’m interested in Analog Circuit Design and Power Electronics.
-- 🌱 I’m currently learning VLSI Circuits and Systems and Power Management ICs.
+- 👋 Hi, I’m @nhatvnguyen, MS ECE @ UCLA.
+- 👀 I’m interested in Analog Circuit Design, Power Electronics, and Battery Modeling.
+- 🌱 I’m currently learning Analog Integrate Circuits Design and Power Management ICs (PMIC).
 - 💞️ I’m looking to collaborate on Hardware and Software projects.
 - 📫 How to reach me @ nhatnguyen11@g.ucla.edu or LinkedIn at https://www.linkedin.com/in/nhat-v-nguyen/
 
